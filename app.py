@@ -2,6 +2,9 @@ from flask import Flask, render_template, request
 import pickle
 import re
 import nltk
+nltk.download("stopwords")
+nltk.download("wordnet")
+
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
@@ -51,5 +54,6 @@ def home():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=10000)
+
 
 
