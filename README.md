@@ -42,3 +42,10 @@ python app.py
 
 ## Project Snippet
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89b27d92-6fe3-469a-83ca-6c89691e8a3b" height="250" /> <br>
+  <img src="https://github.com/user-attachments/assets/caba38fc-634a-40fc-b076-45c2b77d7ed9" height="250" />
+  <img src="https://github.com/user-attachments/assets/38cc3d72-826d-4384-abfb-9582f976d352" height="250" />
+  <img src="https://github.com/user-attachments/assets/ace04df4-0823-4657-bd4d-08ad2bcea7ac" height="250" />
+</p>
+
