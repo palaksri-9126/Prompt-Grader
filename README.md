@@ -36,3 +36,9 @@ The final model was selected to handle class imbalance and provide more balanced
 ```bash
 pip install flask scikit-learn imbalanced-learn nltk xgboost
 python app.py
+```
+
+---
+
+## Project Snippet
+
